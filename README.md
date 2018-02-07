@@ -28,4 +28,3 @@ Constructed around the year 1890, this building was the biggest building in Mill
 * [Spring 1984 Mill Valley Historical Review](http://www.millvalleylibrary.net/historyroom/collections/archive/files/mvhs1984spring-reduce_910d348bce.pdf) Mentions the Leal Building, excerpt: "On the Miller Avenue corner opposite the station the largest building in Mill Valley was constructed . It was three stories tall and topped by a cone shaped tower. It was known as the Leal Building (now Moody Blues). There were several shops at the ground level and the upper floors were offices and apartments. "
 
 ## TimeWalk Images
-![TimeWalk Unity Model](tbd)
