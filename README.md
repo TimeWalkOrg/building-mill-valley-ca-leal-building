@@ -17,7 +17,8 @@ Constructed around the year 1890, this building was the biggest building in Mill
 - Model completed: December, 2017
 - Modeled in SketchUp Make 2017
 
-![SketchUp Make 2017 model screenshot](https://github.com/TimeWalkOrg/building-mill-valley-ca-leal-building/blob/master/leal-building-1920.jpg)
+![SketchUp model screenshot](https://github.com/TimeWalkOrg/building-mill-valley-ca-leal-building/blob/master/leal-building-1920.jpg)
+![Photo of model in History Room](https://github.com/TimeWalkOrg/building-mill-valley-ca-leal-building/blob/master/leal-building-history-room-model.jpg)
 
 ## Design Decisions (1920 Version)
 - We decided to base all of our measurements off of the wooden model in the Mill Valley History Room.
