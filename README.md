@@ -3,12 +3,12 @@
 
 ## Building History
 
-Constructed around the year 1890, this building was the biggest building in Mill Valley. It was three layers tall, housing several small stores on the bottom layer but conserving the top for small businesses and workplaces. Owned by Franke E. Lockwood from 1906 to 1936, it was considered among the largest business block in Mill Valley. It was bought by Mary Simpson Birnie in 1936 for $50,000, or the equivalent of approximately $940,000 today. 
+When the original Leal Building was erected in 1904, it became the tallest building in Mill Valley.  It was built by Harvey Klyce, a Mill Valley pioneer and building inspector, for Manuel Leal, the building’s owner.  It stood at the corner of Throckmorton and Miller Avenues, was three stories high, and was crowned with a cone-shaped tower.  Over the years, the Leal Building housed a variety of businesses, shops and residences, including Lockwood Pharmacy from 1906 to 1936, and Modern Bakery.  In June 1936, Leal sold the building to Mary Simpson Birnie.  In September 1936, she sold the building to Jacob Albert, president of Albert’s, Inc.  In December 1936, the building was razed to make way for a new structure that would house the new Albert’s department store. It would later become Mayer’s Department Store. In 2018, the ground floor houses Equator Coffee and Teas.
 
-- Built: 1895
-- Remodeled: c.1940 ("Moody Blues", Later the Equator Coffee building)
-- Architect: tbd
-- Library link: http://www.millvalleylibrary.net/historyroom/collections/items/show/142
+-	Built: 1904
+-	Builder:  Harvey A. Klyce
+-	Modifications: Demolished 1936, remodeled circa 1940 ("Moody Blues", later the Equator Coffee building)
+-	Library link: http://www.millvalleylibrary.net/historyroom/collections/items/show/142
 
 
 ## SketchUp Model
